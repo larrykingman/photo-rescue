@@ -1,4 +1,4 @@
-# photo-rescue 废片拯救计划 · 使用说明文档
+# photo-rescue 废片拯救器skill · 使用说明文档
 
 ## 作品名称
 
